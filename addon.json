@@ -5,6 +5,7 @@
 	"ignore":
 	[
 		"*.cmd",
+		"*.ini",
 		"*.lnk",
 		"*.url",
 		"*.psd",
